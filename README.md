@@ -1,3 +1,3 @@
 # Demo-repository
-<h1>This is a test repository to help myself learn how to use GitHub.<h1>
+<h2>This is a test repository to help me learn how to use GitHub.<h2>
 The journey begins...
